@@ -22,3 +22,9 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Lingua espanhola',
+    'Como se diz oi em Espanhol?',
+    'Oi em ingles é Holla (Ola)'
+)
