@@ -2,10 +2,11 @@
     --text-color: #DBE4EF;
     --card-front-color: #144480;
     --card-back-color: #00F4BF;
+    --fundo: #c3c4e3;
 }
 
 body {
-    background-color: honeydew;
+    background-color: var(--fundo);
     font-family: Bai Jamjuree;
 }
 
